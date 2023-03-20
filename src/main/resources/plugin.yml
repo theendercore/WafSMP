@@ -6,6 +6,6 @@ prefix: WafSMP
 authors: [Ender]
 description: Plugin for wafflesSMP
 commands:
-  verify:
+  map:
     description: View the server map
     usage: /<command>
