@@ -1,0 +1,11 @@
+name: WafSMP
+version: '${project.version}'
+main: com.theendercore.wafsmp.WafSMP
+api-version: 1.19
+prefix: WafSMP
+authors: [Ender]
+description: Plugin for wafflesSMP
+commands:
+  verify:
+    description: View the server map
+    usage: /<command>
