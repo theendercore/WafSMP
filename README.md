@@ -2,4 +2,4 @@
 Plugin for WafSMP.
 
 Current features:
- - /Map Commmand
+ - /Map Command
