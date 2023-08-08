@@ -6,7 +6,7 @@
 
     <groupId>com.theendercore</groupId>
     <artifactId>WafSMP</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
 
     <name>WafSMP</name>
